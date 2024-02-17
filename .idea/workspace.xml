@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d075bb3-94ee-41b7-8ec5-802896b710aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Comments/Cmmt.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/Cond.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poo/ClassObj.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poo/Inheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Poo/Interface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloWorld/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloWorld/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vaeiables/Var.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/vaeiables/Var.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Kotlin.ClassObjKt.executor": "Run",
     "Kotlin.CmmtKt.executor": "Run",
     "Kotlin.CondKt.executor": "Run",
     "Kotlin.FunctionsKt.executor": "Run",
@@ -66,7 +65,14 @@
       <recent name="D:\LP_IAM\kotlin\KmmApp\src\helloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.LoopKt">
+  <component name="RunManager" selected="Kotlin.ClassObjKt">
+    <configuration name="ClassObjKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Poo.ClassObjKt" />
+      <module name="KmmApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CmmtKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Comments.CmmtKt" />
       <module name="KmmApp" />
@@ -76,13 +82,6 @@
     </configuration>
     <configuration name="CondKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionalStatements.CondKt" />
-      <module name="KmmApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Functions.FunctionsKt" />
       <module name="KmmApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassObjKt" />
         <item itemvalue="Kotlin.LoopKt" />
         <item itemvalue="Kotlin.CondKt" />
         <item itemvalue="Kotlin.VarKt" />
         <item itemvalue="Kotlin.CmmtKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708116573367</updated>
       <workItem from="1708116574504" duration="561000" />
-      <workItem from="1708172353717" duration="2515000" />
+      <workItem from="1708172353717" duration="2813000" />
     </task>
     <servers />
   </component>
