@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d075bb3-94ee-41b7-8ec5-802896b710aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KmmApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helloWorld/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloWorld/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/helloWorld/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708116573367</updated>
       <workItem from="1708116574504" duration="561000" />
-      <workItem from="1708172353717" duration="229000" />
+      <workItem from="1708172353717" duration="531000" />
     </task>
     <servers />
   </component>

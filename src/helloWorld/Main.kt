@@ -1,5 +1,7 @@
 package helloWorld
 
 fun main() {
-    println("Hello world")
+    println("What's your name?")
+    val name = readln()
+    println("Hello, $name!")
 }
