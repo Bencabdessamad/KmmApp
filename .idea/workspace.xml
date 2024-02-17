@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d075bb3-94ee-41b7-8ec5-802896b710aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/vaeiables/Var.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/Functions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,14 @@
       <recent name="D:\LP_IAM\kotlin\KmmApp\src\helloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.VarKt">
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.FunctionsKt" />
+      <module name="KmmApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helloWorld.MainKt" />
       <module name="KmmApp" />
@@ -75,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.VarKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -96,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708116573367</updated>
       <workItem from="1708116574504" duration="561000" />
-      <workItem from="1708172353717" duration="911000" />
+      <workItem from="1708172353717" duration="1454000" />
     </task>
     <servers />
   </component>
